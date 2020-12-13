@@ -1,4 +1,4 @@
-# Incentivized-Hotel-Reviews-Detection-using-vader
+# Incentivized-Hotel-Reviews-Detection-using-vader-and-machine-learning
 Sentimental analysis using VADER and machine learning algorithm.
 
 
